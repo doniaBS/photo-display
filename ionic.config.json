@@ -1,0 +1,7 @@
+{
+  "name": "photo-display",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
